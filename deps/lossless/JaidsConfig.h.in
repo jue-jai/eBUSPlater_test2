@@ -1,0 +1,4 @@
+// Version
+#define VERSION_MAJOR @lossless_VERSION_MAJOR@
+#define VERSION_MINOR @lossless_VERSION_MINOR@
+#define VERSION_PATCH @lossless_VERSION_PATCH@

@@ -1,0 +1,3 @@
+[submodule "deps/lossless"]
+	path = deps/lossless
+	url = https://github.com/jai-rd/lossless_compression
